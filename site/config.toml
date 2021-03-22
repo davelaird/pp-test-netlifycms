@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://pp-test-netlifycms.netlify.app"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
