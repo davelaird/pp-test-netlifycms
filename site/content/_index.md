@@ -1,5 +1,5 @@
 ---
-title: Pastry Pockets test using Netlify CMS
+title: Pastry Pockets test using Netlify CMS test
 subtitle: This CMS makes it fairly easy for non-technical editors to update
   content and add news.
 image: /img/home-jumbotron.jpg
